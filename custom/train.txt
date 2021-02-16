@@ -1,0 +1,10 @@
+/home/natan/darknet/data/custom/images/0001.jpg
+/home/natan/darknet/data/custom/images/0002.jpg
+/home/natan/darknet/data/custom/images/0003.jpg
+/home/natan/darknet/data/custom/images/0004.jpg
+/home/natan/darknet/data/custom/images/0005.jpg
+/home/natan/darknet/data/custom/images/0006.jpg
+/home/natan/darknet/data/custom/images/0007.jpg
+/home/natan/darknet/data/custom/images/0008.jpg
+/home/natan/darknet/data/custom/images/0009.jpg
+/home/natan/darknet/data/custom/images/0010.jpg
