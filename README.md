@@ -1,1 +1,1 @@
-python3 video.py -i custom/images/0001.jpg -y weights -c 0.2
+python3 video.py -v video.mp4 -y weights -c 0.2
